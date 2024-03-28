@@ -21,7 +21,7 @@ function createApp(name, icon, url) {
 
 
 
-createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
+createApp('krunker', '/app-icons/krunker.webp', "/games/krunker.html");
 createApp('friday-night-funkin', 'app-icons/friday-night-funkin.webp', "/games/friday-night-funkin.html");
 createApp('hexgl', 'app-icons/hexgl.webp', "/games/hexgl.html");
 createApp('hexgl', 'app-icons/treasure-arena.webp', "/games/treasure-arena.html");
