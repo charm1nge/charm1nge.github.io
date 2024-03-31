@@ -22,6 +22,7 @@ function createApp(name, icon, url) {
 
 createApp('minecraft-java-edition', 'app-icons/minecraft-java-edition.webp', "/games/minecraft-java.html");
 createApp('subway-surfers', 'app-icons/subway-surfers.webp', "/games/subway-surfers.html");
+createApp('crossy-road', 'app-icons/crossy-road.webp', "/games/crossy-road.html");
 createApp('temple-run-2', 'app-icons/temple-run-2.webp', "/games/temple-run-2.html");
 createApp('stickman-hook', 'app-icons/stickman-hook.webp', "/games/stickman-hook.html");
 createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
@@ -39,4 +40,6 @@ createApp('smash-karts', 'app-icons/smash-karts.webp', "/games/smash-karts.html"
 createApp('time-shooter-2', 'app-icons/time-shooter-2.webp', "/games/time-shooter-2.html");
 createApp('kirka', 'app-icons/kirka.webp', "/games/kirka.html");
 createApp('tall-io', 'app-icons/tall-io.webp', "/games/tall-io.html");
-createApp('1v1-lol', 'app-icons/1v1lol.webp', "/games/1v1lol.html"); 
+createApp('1v1-lol', 'app-icons/1v1lol.webp', "/games/1v1lol.html");
+createApp('sausage-flip', 'app-icons/sausage-flip.webp', "/games/sausage-flip.html");
+createApp('trains-io', 'app-icons/trains-io.webp', "/games/trains-io.html");
