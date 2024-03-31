@@ -20,7 +20,7 @@ function createApp(name, icon, url) {
 }
 
 
-
+createApp('subway-surfers', 'app-icons/subway-surfers.webp', "/games/subway-surfers.html");
 createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
 createApp('friday-night-funkin', 'app-icons/friday-night-funkin.webp', "/games/friday-night-funkin.html");
 createApp('hexgl', 'app-icons/hexgl.webp', "/games/hexgl.html");
