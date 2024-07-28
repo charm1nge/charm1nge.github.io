@@ -20,9 +20,10 @@ function createApp(name, icon, url) {
 }
 
 
-createApp('minecraft-java-edition', 'app-icons/minecraft-java-edition.webp', "/games/minecraft-java.html");
+createApp('minecraft-java-edition', 'app-icons/cut-the-rope.jpg', "/games/cut-the-rope.html");
 createApp('subway-surfers', 'app-icons/subway-surfers.webp', "/games/subway-surfers.html");
 createApp('angry-bids-showdown','app-icons/angry-birds-showdown.png','/games/angry-birds-showdown.html');
+createApp('cut-the-rope','app-icons/angry-birds-showdown.png','/games/angry-birds-showdown.html');
 createApp('crossy-road', 'app-icons/crossy-road.webp', "/games/crossy-road.html");
 createApp('temple-run-2', 'app-icons/temple-run-2.webp', "/games/temple-run-2.html");
 createApp('stickman-hook', 'app-icons/stickman-hook.webp', "/games/stickman-hook.html");
