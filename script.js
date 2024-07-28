@@ -20,7 +20,7 @@ function createApp(name, icon, url) {
 }
 
 
-createApp('minecraft-java-edition', 'app-icons/cut-the-rope.jpg', "/games/cut-the-rope.html");
+createApp('cut-the-rope', 'app-icons/cut-the-rope.jpg', "/games/cut-the-rope.html");
 createApp('subway-surfers', 'app-icons/subway-surfers.webp', "/games/subway-surfers.html");
 createApp('angry-bids-showdown','app-icons/angry-birds-showdown.png','/games/angry-birds-showdown.html');
 createApp('cut-the-rope','app-icons/angry-birds-showdown.png','/games/angry-birds-showdown.html');
