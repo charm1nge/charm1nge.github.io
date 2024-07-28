@@ -44,4 +44,5 @@ createApp('1v1-lol', 'app-icons/1v1lol.webp', "/games/1v1lol.html");
 createApp('sausage-flip', 'app-icons/sausage-flip.webp', "/games/sausage-flip.html");
 createApp('trains-io', 'app-icons/trains-io.webp', "/games/trains-io.html");
 createApp('Five-Nights-At-Freddys-1', 'app-icons/fnaf1.jpg', "/games/fnaf1.html");
+createApp('basketball-random','app-icons/basketball-random.webp','/games/basketball-random.html')
 
