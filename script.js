@@ -25,6 +25,7 @@ createApp('subway-surfers', 'app-icons/subway-surfers.webp', "/games/subway-surf
 createApp('crossy-road', 'app-icons/crossy-road.webp', "/games/crossy-road.html");
 createApp('temple-run-2', 'app-icons/temple-run-2.webp', "/games/temple-run-2.html");
 createApp('stickman-hook', 'app-icons/stickman-hook.webp', "/games/stickman-hook.html");
+createApp('spiral-roll', 'app-icons/spiral-roll.webp','/games/spiral-roll.html')
 createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
 createApp('friday-night-funkin', 'app-icons/friday-night-funkin.webp', "/games/friday-night-funkin.html");
 createApp('hexgl', 'app-icons/hexgl.webp', "/games/hexgl.html");
