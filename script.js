@@ -30,6 +30,7 @@ createApp('temple-run-2', 'app-icons/temple-run-2.webp', "/games/temple-run-2.ht
 createApp('stickman-hook', 'app-icons/stickman-hook.webp', "/games/stickman-hook.html");
 createApp('spiral-roll', 'app-icons/spiral-roll.webp','/games/spiral-roll.html')
 createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
+createApp('basketball-frvr','app-icons/basketball-frvr.webp','/games/basketball-frvr.html')
 createApp('friday-night-funkin', 'app-icons/friday-night-funkin.webp', "/games/friday-night-funkin.html");
 createApp('hexgl', 'app-icons/hexgl.webp', "/games/hexgl.html");
 createApp('hexgl', 'app-icons/treasure-arena.webp', "/games/treasure-arena.html");
@@ -48,5 +49,4 @@ createApp('1v1-lol', 'app-icons/1v1lol.webp', "/games/1v1lol.html");
 createApp('sausage-flip', 'app-icons/sausage-flip.webp', "/games/sausage-flip.html");
 createApp('trains-io', 'app-icons/trains-io.webp', "/games/trains-io.html");
 createApp('Five-Nights-At-Freddys-1', 'app-icons/fnaf1.jpg', "/games/fnaf1.html");
-createApp('basketball-random','app-icons/basketball-random.webp','/games/basketball-random.html')
-
+createApp('scooter-xtreme','app-icons/scooter-xtreme.jpg','/games/scooter-xtreme.html')
