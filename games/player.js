@@ -1,6 +1,8 @@
 var gameplayer = document.getElementById("y");
 var button = document.getElementById("papa");
 
+document.addEventListener('contextmenu', event => event.preventDefault());
+
 window.addEventListener('keydown', (event) => {
     if (event.ctrlKey && event.shiftKey && event.key === 'I') {
         event.preventDefault();
