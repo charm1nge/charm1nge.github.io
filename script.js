@@ -48,7 +48,12 @@ createApp('cut-the-rope','app-icons/cut-the-rope.jpg','/games/cut-the-rope.html'
 createApp('drift-the-boss','app-icons/drift-boss.png','/games/drift-boss.html')
 createApp('crossy-road', 'app-icons/crossy-road.webp', "/games/crossy-road.html");
 createApp('temple-run-2', 'app-icons/temple-run-2.webp', "/games/temple-run-2.html");
-createApp('stickman-hook', 'app-icons/funny-shooter-2.jpeg', "/games/funny-shooter-2.html");
+createApp('funny-shooter-2', 'app-icons/funny-shooter-2.jpeg', "/games/funny-shooter-2.html");
+createApp('drive-mad', 'app-icons/drive-mad.jpg', "/games/drive-mad.html");
+createApp('ping-pong-go', 'app-icons/ping-pong-go.jpg', "/games/ping-pong-go.html");
+createApp('tunnel-rush-2', 'app-icons/tunnel-rush-2.jpg', "/games/tunnel-rush-2.html");
+createApp('parkour-race', 'app-icons/parkour-race.jpg', "/games/parkour-race.html");
+createApp('stick-merge', 'app-icons/stick-merge.jpg', "/games/stick-merge.html");
 createApp('stickman-hook', 'app-icons/stickman-hook.webp', "/games/stickman-hook.html");
 createApp('spiral-roll', 'app-icons/spiral-roll.webp','/games/spiral-roll.html')
 createApp('krunker', 'app-icons/krunker.webp', "/games/krunker.html");
