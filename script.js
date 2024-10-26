@@ -21,11 +21,13 @@ function createApp(name, icon, url) {
     image.style.transition = "transform 0.3s ease-in-out";
 
     image.addEventListener('mouseover', () => {
+        image.style.zIndex = "-9999";
         image.style.transform = "scale(1.25)";
     });
 
     image.addEventListener('mouseout', () => {
         image.style.transform = "scale(1)";
+        image.style.zIndex = "-9999";
     });
     
     image.style.display = "block";
