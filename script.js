@@ -18,6 +18,15 @@ function createApp(name, icon, url) {
     image.style.flexBasis = "140px";
     image.style.flexShrink = 1;
     image.style.flexGrow = 1;
+    image.style.transition = "transform 0.3s ease-in-out";
+
+    image.addEventListener('mouseover', () => {
+        image.style.transform = "scale(1.25)";
+    });
+
+    image.addEventListener('mouseout', () => {
+        image.style.transform = "scale(1)";
+    });
     
     image.style.display = "block";
     apps.push(name);
