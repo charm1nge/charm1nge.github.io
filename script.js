@@ -99,6 +99,8 @@ createApp('madalin-stunt','app-icons/madalin-stunt-cars-3-logo.webp','/games/Mad
 createApp('sling-drift','app-icons/sling-drift-logo.webp','/games/slingd.html');
 createApp('drift-hunters','app-icons/drift-hunters.jpg','/games/drifth.html');
 createApp('granny','app-icons/granny-granny.jpg','/games/gran.html');
+createApp('Mr Racer','app-icons/MrRacer.jpg','/games/MrRacer.html');
+
 function search(text)
 {
     if (!text == "")
