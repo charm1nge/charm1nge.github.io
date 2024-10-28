@@ -94,7 +94,7 @@ createApp('tomb-of-the-mask','app-icons/tomb.png','/games/tomb.html');
 createApp('polytrack','app-icons/polytrack.png','/games/ptrack.html');
 createApp('rooftop-snipers','app-icons/rooftop-snipers.png','/games/rooftopsnipers.html');
 createApp('getaway-shootout','app-icons/getaway-shootout.png','/games/gts.html');
-createApp('madalin-stunt','app-icons/madalin-stunt-cars-3-logo.webp','/games/madalinstunt.html');
+createApp('madalin-stunt','app-icons/madalin-stunt-cars-3-logo.webp','/games/MadalinStunt.html');
 createApp('sling-drift','app-icons/sling-drift-logo.webp','/games/slingd.html');
 createApp('drift-hunters','app-icons/drift-hunters.jpg','/games/drifth.html');
 createApp('granny','app-icons/granny-granny.jpg','/games/gran.html');
