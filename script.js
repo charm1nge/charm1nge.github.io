@@ -80,7 +80,7 @@ createApp('candy-clicker-2', 'app-icons/candy-clicker-2.webp', "/games/candy-cli
 createApp('snowball-io', 'app-icons/snowball-io.webp', "/games/snowball-io.html");
 createApp('baldi-basics', 'app-icons/baldi-basics.webp', "/games/baldi-basics.html");
 createApp('paper-io', 'app-icons/paper-io-4.webp', "/games/paper-io.html");
-createApp('Basket Random','app-icons/BasketRandomjpg.jpg','/games/BasketRandom.html');
+createApp('basketball-random','app-icons/BasketRandomjpg.jpg','/games/BasketRandom.html');
 createApp('smash-karts', 'app-icons/smash-karts.webp', "/games/smash-karts.html");
 createApp('time-shooter-2', 'app-icons/time-shooter-2.webp', "/games/time-shooter-2.html");
 createApp('kirka', 'app-icons/kirka.webp', "/games/kirka.html");
@@ -99,7 +99,7 @@ createApp('madalin-stunt','app-icons/madalin-stunt-cars-3-logo.webp','/games/Mad
 createApp('sling-drift','app-icons/sling-drift-logo.webp','/games/slingd.html');
 createApp('drift-hunters','app-icons/drift-hunters.jpg','/games/drifth.html');
 createApp('granny','app-icons/granny-granny.jpg','/games/gran.html');
-createApp('Mr Racer','app-icons/MrRacer.jpg','/games/MrRacer.html');
+createApp('mr-racer','app-icons/MrRacer.jpg','/games/MrRacer.html');
 
 function search(text)
 {
